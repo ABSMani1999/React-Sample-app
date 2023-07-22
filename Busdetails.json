@@ -1,0 +1,485 @@
+
+{
+    "buses":[
+    {
+        "From":"Tenkasi",
+        "To":"Chennai",
+        "Date":"21/07/2023",
+        "bus":[
+            {
+                "BusName":"NT xpress",
+                "type":"NON A/C Sleeper (2+1)",
+                "DepartureTime":"18:25",
+                "ArrivalTime":"06:35",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Koyembedu",
+                "Rating":"4.2",
+                "price":"INR 899",
+                "seats":{
+                    "booked" : [],
+                    "total" : 15
+                }
+            },
+            {
+                "BusName":"National Travels",
+                "type":"Bharat Benz A/C Sleeper (2+1)",
+                "DepartureTime":"20:25",
+                "ArrivalTime":"07:35",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Koyembedu",
+                "Rating":"4.5",
+                "price":"INR 999",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"Tranz King Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:40",
+                "ArrivalTime":"06:30",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Koyembedu",
+                "Rating":"4.0",
+                "price":"INR 950",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"YBM Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:25",
+                "ArrivalTime":"06:15",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Koyembedu",
+                "Rating":"3.7",
+                "price":"INR 1090",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"MRM Travels",
+                "type":" NON A/C Sleeper (2+1)",
+                "DepartureTime":"19:05",
+                "ArrivalTime":"07:55",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Koyembedu",
+                "Rating":"3.5",
+                "price":"INR 760",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            }
+        ]
+
+    },
+
+
+
+    {
+        "From":"Chennai",
+        "To":"Tenkasi",
+        "Date":"21/07/2023",
+        "bus":[
+            {
+                "BusName":"NT xpress",
+                "type":"NON A/C Sleeper (2+1)",
+                "DepartureTime":"18:25",
+                "ArrivalTime":"06:35",
+                "StartingPoint":"Koyenbedu",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.2",
+                "price":"INR 899",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"National Travels",
+                "type":"Bharat Benz A/C Sleeper (2+1)",
+                "DepartureTime":"20:25",
+                "ArrivalTime":"07:35",
+                "StartingPoint":"Koyembedu",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.5",
+                "price":"INR 999",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"Tranz King Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:40",
+                "ArrivalTime":"06:30",
+                "StartingPoint":"Koyembedu",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.0",
+                "price":"INR 950",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"YBM Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:25",
+                "ArrivalTime":"06:15",
+                "StartingPoint":"Koyembedu",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"3.7",
+                "price":"INR 1090",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"MRM Travels",
+                "type":" NON A/C Sleeper (2+1)",
+                "DepartureTime":"19:05",
+                "ArrivalTime":"07:55",
+                "StartingPoint":"Koyembedu",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"3.5",
+                "price":"INR 760",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            }
+        ]
+
+    },
+
+
+    {
+        "From":"Bangalore",
+        "To":"Tenkasi",
+        "Date":"21/07/2023",
+        "bus":[
+            {
+                "BusName":"NT xpress",
+                "type":"NON A/C Sleeper (2+1)",
+                "DepartureTime":"18:25",
+                "ArrivalTime":"06:35",
+                "StartingPoint":"bangalore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.2",
+                "price":"INR 899",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"National Travels",
+                "type":"Bharat Benz A/C Sleeper (2+1)",
+                "DepartureTime":"20:25",
+                "ArrivalTime":"07:35",
+                "StartingPoint":"bangalore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.5",
+                "price":"INR 999",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"Tranz King Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:40",
+                "ArrivalTime":"06:30",
+                "StartingPoint":"bangalore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.0",
+                "price":"INR 950",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"YBM Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:25",
+                "ArrivalTime":"06:15",
+                "StartingPoint":"bangalore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"3.7",
+                "price":"INR 1090",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"MRM Travels",
+                "type":" NON A/C Sleeper (2+1)",
+                "DepartureTime":"19:05",
+                "ArrivalTime":"07:55",
+                "StartingPoint":"bangalore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"3.5",
+                "price":"INR 760",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            }
+        ]
+
+    },
+
+
+    {
+        "From":"Tenkasi",
+        "To":"Bangalore",
+        "Date":"21/07/2023",
+        "bus":[
+            {
+                "BusName":"NT xpress",
+                "type":"NON A/C Sleeper (2+1)",
+                "DepartureTime":"18:25",
+                "ArrivalTime":"06:35",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Bangalore",
+                "Rating":"4.2",
+                "price":"INR 899",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"National Travels",
+                "type":"Bharat Benz A/C Sleeper (2+1)",
+                "DepartureTime":"20:25",
+                "ArrivalTime":"07:35",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"bangalore",
+                "Rating":"4.5",
+                "price":"INR 999",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"Tranz King Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:40",
+                "ArrivalTime":"06:30",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Bangalore",
+                "Rating":"4.0",
+                "price":"INR 950",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"YBM Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:25",
+                "ArrivalTime":"06:15",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Bangalore",
+                "Rating":"3.7",
+                "price":"INR 1090",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"MRM Travels",
+                "type":" NON A/C Sleeper (2+1)",
+                "DepartureTime":"19:05",
+                "ArrivalTime":"07:55",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Bangalore",
+                "Rating":"3.5",
+                "price":"INR 760",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            }
+        ]
+
+    },
+
+
+    {
+        "From":"Tenkasi",
+        "To":"Coimbatore",
+        "Date":"21/07/2023",
+        "bus":[
+            {
+                "BusName":"NT xpress",
+                "type":"NON A/C Sleeper (2+1)",
+                "DepartureTime":"18:25",
+                "ArrivalTime":"06:35",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Coimbatore",
+                "Rating":"4.2",
+                "price":"INR 899",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"National Travels",
+                "type":"Bharat Benz A/C Sleeper (2+1)",
+                "DepartureTime":"20:25",
+                "ArrivalTime":"07:35",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Coimbatore",
+                "Rating":"4.5",
+                "price":"INR 999",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"Tranz King Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:40",
+                "ArrivalTime":"06:30",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Coimbatore",
+                "Rating":"4.0",
+                "price":"INR 950",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"YBM Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:25",
+                "ArrivalTime":"06:15",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Coimbatore",
+                "Rating":"3.7",
+                "price":"INR 1090",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"MRM Travels",
+                "type":" NON A/C Sleeper (2+1)",
+                "DepartureTime":"19:05",
+                "ArrivalTime":"07:55",
+                "StartingPoint":"Tenkasi New Bus Stand",
+                "EndingPoint":"Coimbatore",
+                "Rating":"3.5",
+                "price":"INR 760",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            }
+        ]
+
+    },
+
+    {
+        "From":"Coimbatore",
+        "To":"Tenkasi",
+        "Date":"21/07/2023",
+        "bus":[
+            {
+                "BusName":"NT xpress",
+                "type":"NON A/C Sleeper (2+1)",
+                "DepartureTime":"18:25",
+                "ArrivalTime":"06:35",
+                "StartingPoint":"Coimbatore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.2",
+                "price":"INR 899",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"National Travels",
+                "type":"Bharat Benz A/C Sleeper (2+1)",
+                "DepartureTime":"20:25",
+                "ArrivalTime":"07:35",
+                "StartingPoint":"Coimbatore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.5",
+                "price":"INR 999",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"Tranz King Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:40",
+                "ArrivalTime":"06:30",
+                "StartingPoint":"Coimbatore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"4.0",
+                "price":"INR 950",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"YBM Travels",
+                "type":"A/C Sleeper (2+1)",
+                "DepartureTime":"19:25",
+                "ArrivalTime":"06:15",
+                "StartingPoint":"Coimbatore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"3.7",
+                "price":"INR 1090",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            },
+            {
+                "BusName":"MRM Travels",
+                "type":" NON A/C Sleeper (2+1)",
+                "DepartureTime":"19:05",
+                "ArrivalTime":"07:55",
+                "StartingPoint":"Coimbatore",
+                "EndingPoint":"Tenkasi New Bus Stand",
+                "Rating":"3.5",
+                "price":"INR 760",
+                "seats":[{
+                    "booked" : [],
+                    "total" : 15
+                }]
+            }
+        ]
+
+    }
+
+
+]
+}
